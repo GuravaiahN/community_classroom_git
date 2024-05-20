@@ -4,3 +4,5 @@ This repo is amazing
 
 
 Thank you so much
+
+This is an example for the merge conflict
